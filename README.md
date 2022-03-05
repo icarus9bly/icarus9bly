@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+![Aditya's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=icarus9bly&layout=compact&theme=gotham&count_private=true)
 <!---
 icarus9bly/icarus9bly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
