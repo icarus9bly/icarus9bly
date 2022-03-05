@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @icarus9bly
-- 👀 I’m interested in fastapi
+- 👀 I’m interested in fastapi, WebGL
 - 🌱 I’m currently learning Nextjs and Rust
 - 💞️ I’m looking to collaborate on anything Python
 - 📫 How to reach me adityarhcsa@gmail.com
